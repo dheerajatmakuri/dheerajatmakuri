@@ -7,7 +7,7 @@ I'm currently mastering IT & Management at The University of Texas, focusing on 
 - **Programming Languages:** Python, Shell
 - **Web Development:** HTML, CSS, JavaScript, TypeScript, Next.js
 - **Data Analysis:** Tableau, SQL
-- **Cloud Technologies:** AWS (Ec2, S3, Athena, QuickSight, IAM, Glue)
+- **Cloud Technologies:** AWS (EC2, S3, Athena, QuickSight, IAM, Glue)
 - **Project Management:** Agile methodologies, Digital Product Management
 
 ## Get in Touch
