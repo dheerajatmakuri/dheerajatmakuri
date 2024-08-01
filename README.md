@@ -18,8 +18,3 @@ I'm currently mastering IT & Management at The University of Texas, focusing on 
 - **LinkedIn:** [Dheeraj Atmakuri](https://www.linkedin.com/in/dheerajatmakuri)
 - **Email:** dheerajatmakuri10010@gmail.com
 - **Portfolio:** [Dheeraj Atmakuri Portfolio](https://dheeraj-atmakuri-portfolio.vercel.app/)
-
-- 🔭 I’m currently working on upskilling myself in DevOps, Front-End & Data Engineering projects
-- 🌱 I’m currently learning AWS-EC2, S3, Glue, Athena, QuickSight, Terraform, Ansible, GitHub Actions, Jenkins, CI/CD
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dheeraj-atmakuri/)
-- 😄 Pronouns: he/him
