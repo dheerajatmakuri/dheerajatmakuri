@@ -12,6 +12,7 @@ I'm currently mastering IT & Management at The University of Texas, focusing on 
 - **Data Engineering:** Python, SQL, Building Pipelines
 - **Project Management:** Agile methodologies, Digital Product Management
 - **Salesforce:** Sales Cloud, Experience Cloud
+- **DB:** MySQL, MongoDB
 
 ## Get in Touch
 - **LinkedIn:** [Dheeraj Atmakuri](https://www.linkedin.com/in/dheerajatmakuri)
