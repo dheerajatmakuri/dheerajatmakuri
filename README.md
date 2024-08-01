@@ -8,16 +8,17 @@ I'm currently mastering IT & Management at The University of Texas, focusing on 
 - **Web Development:** HTML, CSS, JavaScript, TypeScript, Next.js
 - **Data Analysis:** Tableau, SQL
 - **Cloud Technologies:** AWS (EC2, S3, Athena, QuickSight, IAM, Glue)
+- **DevOps:** AWS (S3, Athena, Glue, QuickSight, IAM), Terraform, Ansible, GitHub Actions, Jenkins, CI/CD
+- **Data Engineering:** Python, SQL, Building Pipelines
 - **Project Management:** Agile methodologies, Digital Product Management
 - **Salesforce:** Sales Cloud, Experience Cloud
 
 ## Get in Touch
 - **LinkedIn:** [Dheeraj Atmakuri](https://www.linkedin.com/in/dheerajatmakuri)
 - **Email:** dheerajatmakuri10010@gmail.com
-- **Portfolio:** https://dheeraj-atmakuri-portfolio.vercel.app/
+- **Portfolio:** [Dheeraj Atmakuri Portfolio](https://dheeraj-atmakuri-portfolio.vercel.app/)
 
-
-- 🔭 I’m currently working on Upskilling myself in Devops, Front-End & Data EngineeringProjects
-- 🌱 I’m currently learning AWS-EC2, S3, Glue Athena, Quicksight, Terraform, Ansible, Github Actions, Jenkins, CICD,
-- 📫 How to reach me: https://www.linkedin.com/in/dheeraj-atmakuri/
+- 🔭 I’m currently working on upskilling myself in DevOps, Front-End & Data Engineering projects
+- 🌱 I’m currently learning AWS-EC2, S3, Glue, Athena, QuickSight, Terraform, Ansible, GitHub Actions, Jenkins, CI/CD
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dheeraj-atmakuri/)
 - 😄 Pronouns: he/him
