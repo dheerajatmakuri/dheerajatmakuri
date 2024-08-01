@@ -9,6 +9,7 @@ I'm currently mastering IT & Management at The University of Texas, focusing on 
 - **Data Analysis:** Tableau, SQL
 - **Cloud Technologies:** AWS (EC2, S3, Athena, QuickSight, IAM, Glue)
 - **Project Management:** Agile methodologies, Digital Product Management
+- **Salesforce:** Sales Cloud, Experience Cloud
 
 ## Get in Touch
 - **LinkedIn:** [Dheeraj Atmakuri](https://www.linkedin.com/in/dheerajatmakuri)
