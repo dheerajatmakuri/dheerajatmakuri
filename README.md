@@ -17,4 +17,4 @@ I'm currently mastering IT & Management at The University of Texas, focusing on 
 ## Get in Touch
 - **LinkedIn:** [Dheeraj Atmakuri](https://www.linkedin.com/in/dheerajatmakuri)
 - **Email:** dheerajatmakuri10010@gmail.com
-- **Portfolio:** [Dheeraj Atmakuri Portfolio](https://dheeraj-atmakuri-portfolio.vercel.app/)
+- **Portfolio:** [Dheeraj Atmakuri Portfolio](https://dheerajatmakuri.vercel.app/)
